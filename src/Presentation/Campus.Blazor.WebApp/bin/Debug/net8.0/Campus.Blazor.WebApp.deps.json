@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Campus.Blazor.WebApp/1.0.0": {
+        "runtime": {
+          "Campus.Blazor.WebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Campus.Blazor.WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
